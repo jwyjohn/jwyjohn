@@ -2,6 +2,8 @@
 
 Here is jwyjohn, a cat in Tongji University (2.5/4), working in a BioLab, major in BioSciences.
 
+Recently trying to change my major to Software Engineering. (Good Luck)
+
 ## ( ´・ω・)ノSomething about me
 
 - ♥️ Former CChO and NOIP participant, ended up with little harvest.
