@@ -30,6 +30,7 @@ Now majoring in Sofeware Engineering.
   - Is A Cat when not in anyone's sight.
 - 📖 Publications: N/A
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyjohn&langs_count=20&layout=compact)](https://github.com/jwyjohn/)
 
 # IN GOD WE TRUST
 
