@@ -4,7 +4,7 @@ Here is jwyjohn, a cat in Tongji University with the semester 2.5/5 (Yes, extend
 
 ~~Recently trying to change my major to Software Engineering. (Good Luck)~~
 
-Now majoring in Sofeware Engineering.
+Now majoring in Software Engineering.
 
 ## ( ´・ω・)ノSomething about me
 
