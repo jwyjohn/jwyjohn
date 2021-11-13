@@ -6,6 +6,7 @@ Here is jwyjohn, a cat in Tongji University with the semester 2.5/5 (Yes, extend
 
 Now majoring in Software Engineering.
 
+
 ## ( ´・ω・)ノSomething about me
 
 - ♥️ Former CChO and NOIP participant, ended up with little harvest.
@@ -31,6 +32,8 @@ Now majoring in Software Engineering.
 - 📖 Publications: N/A
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyjohn&langs_count=20&layout=compact)](https://github.com/jwyjohn/)
+
+![Metrics](https://metrics.lecoq.io/jwyjohn?template=classic&config.timezone=Asia%2FShanghai)
 
 # IN GOD WE TRUST
 
