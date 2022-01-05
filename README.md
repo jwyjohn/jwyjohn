@@ -33,8 +33,6 @@ Now majoring in Software Engineering.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyjohn&langs_count=20&layout=compact)](https://github.com/jwyjohn/)
 
-![Metrics](https://metrics.lecoq.io/jwyjohn?template=classic&config.timezone=Asia%2FShanghai)
-
 # IN GOD WE TRUST
 
 > And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.
