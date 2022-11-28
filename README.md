@@ -20,7 +20,7 @@ Now majoring in Software Engineering.
 - 📫 How to reach me: ...
   - Email for **important** things: 1951510@tongji.edu.cn
   - Email for fun: jwyjohn@foxmail.com
-  - ~~Room F409, Medical Building, 1239 Siping Rd.~~
+  - Room 317, Jishi Building, 4800 Cao'an Hwy.
   - School of Software Engineering Tongji University at 4800 Cao'an Hwy, Jiading District, Shanghai, China.
 - ⚡ Fun fact: ...
   - Is A Cat when not in anyone's sight.
