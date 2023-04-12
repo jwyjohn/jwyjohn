@@ -9,11 +9,6 @@ Now majoring in Software Engineering.
 
 ## ( ´・ω・)ノSomething about me
 
-- ♥️ Former CChO and NOIP participant.
-- 🔭 I’m currently working on (intesrested in) ...
-  - Ways to build an **affordable computing cluster** and a **Storage System**
-  - Archiving as many **BOOKs** (Textbooks, Doujin, Magna ...) as possible
-  - Lab/Coding automation
 - 🌱 I’m currently learning ...
   - The **MAGIC**: Structure and Interpretation of Computer Programs
   - CTFP
