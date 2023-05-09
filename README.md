@@ -1,6 +1,6 @@
 # Greetings Traveler
 
-Here is jwyjohn, a cat in Tongji University with the semester 3.0/5 (Yes, extended one year for major changing). ~~working in a BioLab, major in BioSciences.~~
+Here is jwyjohn, a cat in Tongji University with the semester 3.5/5 (Yes, extended one year for major changing). ~~working in a BioLab, major in BioSciences.~~
 
 ~~Recently trying to change my major to Software Engineering. (Good Luck)~~
 
