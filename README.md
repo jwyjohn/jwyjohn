@@ -1,10 +1,8 @@
 # Greetings Traveler
 
-Here is jwyjohn, a cat in Tongji University with the semester 4.0/5 (Yes, extended one year for major changing). ~~working in a BioLab, major in BioSciences.~~
+Currently an undergraduate student at Tongji University majoring in Software Engineering. A voracious learner and passionate researcher in the research areas of system security, software reliability, privacy and fairness in real world systems. Multiple contests winner in cybersecurity area. Solid programming skills and systematic thinking. 
 
-~~Recently trying to change my major to Software Engineering. (Good Luck)~~
-
-Now majoring in Software Engineering.
+*** Now I am looking for a PhD position starts at Fall 2024. ***
 
 
 ## ( ´・ω・)ノSomething about me
@@ -13,13 +11,10 @@ Now majoring in Software Engineering.
   - The **MAGIC**: Structure and Interpretation of Computer Programs
   - CTFP
 - 📫 How to reach me: ...
-  - Email for **important** things: 1951510@tongji.edu.cn
-  - Email for fun: jwyjohn@foxmail.com
+  - Email: 1951510@tongji.edu.cn
   - Room 317, Jishi Building, 4800 Cao'an Hwy.
   - School of Software Engineering Tongji University at 4800 Cao'an Hwy, Jiading District, Shanghai, China.
-- ⚡ Fun fact: ...
-  - Is A Cat when not in anyone's sight.
-- 📖 Publications: N/A
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyjohn&langs_count=10&layout=compact)](https://github.com/jwyjohn/)
 
