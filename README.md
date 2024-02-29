@@ -1,5 +1,8 @@
 # Greetings Traveler
 
+> But the path of the *just* is as the shining light, that shineth more and more unto the perfect day.
+> (Proverbs 4:18)
+
 Currently an undergraduate student at Tongji University majoring in Software Engineering. A voracious learner and passionate researcher in the research areas of system security, software reliability, privacy and fairness in real world systems. Multiple contests winner in cybersecurity area. Solid programming skills and systematic thinking. 
 
 **Now I am looking for a PhD position starts at Fall 2024.**
@@ -12,7 +15,7 @@ Currently an undergraduate student at Tongji University majoring in Software Eng
   - CTFP
 - 📫 How to reach me: ...
   - Email: 1951510@tongji.edu.cn
-  - Room 317, Jishi Building, 4800 Cao'an Hwy.
+  - Room 319R, Jishi Building, 4800 Cao'an Hwy.
   - School of Software Engineering Tongji University at 4800 Cao'an Hwy, Jiading District, Shanghai, China.
 
 
@@ -43,9 +46,6 @@ p25sOFcQmShgYLiFgQoBAJvLiuTPahPLQwC/7Hz9ZS2OzBYNBq0g5xJGCLQnicMI
 ```
 
 # IN GOD WE TRUST
-
-> But the path of the *just* is as the shining light, that shineth more and more unto the perfect day.
-> (Proverbs 4:18)
 
 > And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.
 > (1 Chronicles 4:10)
