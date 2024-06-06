@@ -19,8 +19,6 @@ Currently an undergraduate student at Tongji University majoring in Software Eng
   - School of Software Engineering Tongji University at 4800 Cao'an Hwy, Jiading District, Shanghai, China.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyjohn&langs_count=10&layout=compact)](https://github.com/jwyjohn/)
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
