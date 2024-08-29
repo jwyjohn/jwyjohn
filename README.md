@@ -5,7 +5,7 @@
 
 Currently an undergraduate student at Tongji University majoring in Software Engineering. A voracious learner and passionate researcher in the research areas of system security, software reliability, privacy and fairness in real world systems. Multiple contests winner in cybersecurity area. Solid programming skills and systematic thinking. 
 
-**Will be doing a PhD starting from Fall 2024.**
+**Will be doing a MSc starting from Fall 2024.**
 
 
 ## ( ´・ω・)ノSomething about me
