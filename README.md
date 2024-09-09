@@ -3,10 +3,7 @@
 > But the path of the *just* is as the shining light, that shineth more and more unto the perfect day.
 > (Proverbs 4:18)
 
-Currently an undergraduate student at Tongji University majoring in Software Engineering. A voracious learner and passionate researcher in the research areas of system security, software reliability, privacy and fairness in real world systems. Multiple contests winner in cybersecurity area. Solid programming skills and systematic thinking. 
-
-**Will be doing a MSc starting from Fall 2024.**
-
+Currently a MSc student at ETH Zurich majoring in Cyber Security. A voracious learner and passionate researcher in the research areas of system security, software reliability, privacy and fairness in real world systems. Multiple contests winner in cybersecurity area. Solid programming skills and systematic thinking.
 
 ## ( ´・ω・)ノSomething about me
 
@@ -14,9 +11,9 @@ Currently an undergraduate student at Tongji University majoring in Software Eng
   - The **MAGIC**: Structure and Interpretation of Computer Programs
   - CTFP
 - 📫 How to reach me: ...
-  - Email: 1951510@tongji.edu.cn
-  - Room 319R, Jishi Building, 4800 Cao'an Hwy.
-  - School of Software Engineering Tongji University at 4800 Cao'an Hwy, Jiading District, Shanghai, China.
+  - ~~Email: 1951510@tongji.edu.cn~~
+  - ~~Room 319R, Jishi Building, 4800 Cao'an Hwy.~~
+  - ~~School of Software Engineering Tongji University at 4800 Cao'an Hwy, Jiading District, Shanghai, China.~~
 
 
 # IN GOD WE TRUST
